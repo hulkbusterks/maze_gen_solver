@@ -5,8 +5,8 @@ from mazes import *
 
 
 def main():
-    num_rows = 10
-    num_cols = 10
+    num_rows = 30
+    num_cols = 30
     margin = 10
     screen_x = 800
     screen_y = 600
